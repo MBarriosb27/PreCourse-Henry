@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repositorio de prueba 2 del precurso de henry 
+Este proyecto es un repositorio y clonarlo desde github a mi computarodora
